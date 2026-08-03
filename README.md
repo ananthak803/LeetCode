@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ananthak803/LeetCode/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ananthak803/LeetCode/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ananthak803/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ananthak803/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
